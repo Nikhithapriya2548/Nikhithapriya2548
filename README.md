@@ -14,7 +14,7 @@
 - 🌱 Currently learning **Spring Boot, React, Microservices & Cloud**
 - 🚀 Love building real-world applications
 - 🤝 Open to collaborating on Open Source Projects
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **gummalanikhitha@gmail.com**
 - ⚡ Fun Fact: *I love solving coding challenges and exploring new technologies.*
 
 ---
