@@ -28,22 +28,22 @@
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap" />
 </p>
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs," />
 </p>
 
 ### Database
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
 ### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,idea,eclipse,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma" />
 </p>
 
 ---
@@ -65,20 +65,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nikhithapriya2548&theme=onedark&margin-w=15&margin-h=15"/>
-</p>
-
----
-
 ## 🌟 Featured Projects
 
 📌 Add your best repositories here.
 
-- 🚀 Project 1
-- 💻 Project 2
 - 🌐 Portfolio Website
 - 🤖 AI/ML Project
 
