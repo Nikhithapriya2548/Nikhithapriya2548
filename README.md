@@ -84,8 +84,8 @@
 
 ## 🌐 Connect with Me
 
-<p align="left">
-<a href="https:linkedin.com/in/nikhitha-gummala-b927563a9"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<p align="center">
+<a href="linkedin.com/in/nikhitha-gummala-b927563a9"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:gummalanikhitha@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
